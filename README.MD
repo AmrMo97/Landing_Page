@@ -2,11 +2,11 @@
 
 ## Table of contents
 
-- [Landing Page Project](#project-title)
+- [Landing Page Project](#Landing-Page-Project)
 - [Table of contents](#table-of-contents)
 - [Resources](#resources)
 - [Instructions](#Instructions)
-- [Screenshots](#demo-preview)
+- [Screenshots](#Screenshots)
 
 ## Instructions
 
