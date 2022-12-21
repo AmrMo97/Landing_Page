@@ -41,6 +41,6 @@
 ## Screenshots
 
 <img src="/images/Screenshot(1).png" alt="A screenshot of the final result">
-<img src="/images/Screenshot(2).png" alt="A screenshot of the final result">
-<br>
-[(Back to top)](#table-of-contents)
+<img src="/images/Screenshot(2).png" alt="A screenshot of the final result"> <br>
+ 
+ [(Back to top)](#table-of-contents)
